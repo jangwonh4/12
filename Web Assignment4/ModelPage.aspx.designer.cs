@@ -11,7 +11,7 @@ namespace Web_Assignment4
 {
 
 
-    public partial class Contact
+    public partial class ModelPage
     {
     }
 }

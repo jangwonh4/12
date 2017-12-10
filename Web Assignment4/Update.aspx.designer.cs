@@ -11,7 +11,7 @@ namespace Web_Assignment4
 {
 
 
-    public partial class About
+    public partial class Update
     {
     }
 }
