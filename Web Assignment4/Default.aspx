@@ -5,7 +5,11 @@
     
     <asp:Button ID="Button1" runat="server" Text="Button" OnClick="Button1_Click" />
     
-    <asp:GridView ID="GridView1" runat="server"></asp:GridView>
+    <asp:GridView ID="GridView1" runat="server">
+        <Columns>
+            <asp:ButtonField CommandName="Select" Text="Select" />
+        </Columns>
+    </asp:GridView>
     
     
     <!--
